@@ -2,7 +2,7 @@
 
 **AI Engineer based in Berlin** - building ML pipelines, backend services, and data-driven tools.
 
-I work at the intersection of machine learning and production software. Currently focused on designing intelligent systems that go beyond notebooks — from data ingestion to deployment.
+I work at the intersection of machine learning and production software. Currently focused on designing intelligent systems that go beyond notebooks from data ingestion to deployment.
 
 ---
 
