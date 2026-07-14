@@ -29,7 +29,7 @@ I work at the intersection of machine learning and production software. Currentl
 
 ### Currently
 
-- 🏢 AI Engineering Intern - working on statistics and AI-powered reporting tools
+- 🏢 AI/ML Engineer- working on statistics and AI-powered reporting tools
 - 📍 Berlin, Germany
 
 
